@@ -166,7 +166,8 @@ By leveraging Random Forest, feature engineering, and statistical analysis, we a
 
 With further optimizations and deployment, this model could be used in the wine industry to assess quality efficiently and accurately.
 
-                                          🍷 Cheers to Data Science! 🎉
+                                          🍷 **Cheers to Data Science!** 🎉
+
 
 
 
