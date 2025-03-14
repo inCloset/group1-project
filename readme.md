@@ -29,6 +29,7 @@ Features Used:
 
 ## Objective:
   🔹 Predict wine quality (Low, Medium, High) based on chemical properties.
+  
   🔹 Determine which features impact wine quality the most.
 
 
