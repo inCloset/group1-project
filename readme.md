@@ -139,6 +139,9 @@ Why Random Forest?
 
 
 
+
+
+
 ## 👨‍💻 Contributors
 
 This project was developed by Group 1:
@@ -177,5 +180,5 @@ With further optimizations and deployment, this model could be used in the wine 
    🔹 Machine Learning Algorithms - Scikit-learn
 
    🔹 Statistical Tests (ANOVA, Pearson Correlation) - Statsmodels
-   
+
    🔹 Shrikant Temburwar - Wine Quality Dataset
