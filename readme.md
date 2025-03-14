@@ -40,37 +40,26 @@ Features Used:
 📌 Steps Taken:
 
 1️⃣ Data Cleaning
-
    ✅ Removed unnecessary columns
-
    ✅ Standardized column names for consistency
-
    ✅ Handled missing values
 
 2️⃣ Exploratory Data Analysis (EDA)
 
    🔹 Visualized correlations between chemical properties & wine quality
-
    🔹 Performed ANOVA testing on Total Sulfur Dioxide to assess its impact
-
    🔹 Calculated Pearson Correlation between Density & Residual Sugar
 
 3️⃣ Feature Engineering
 
 ✅ Categorized wine quality into three classes:
-
    - Low Quality (3-5)
-
    - Medium Quality (6-7)
-
    - High Quality (8-9)
-
      ✅ Created a custom function to process Red & White wines separately
-
      ✅ Applied One-Hot Encoding for categorical variables
 
 4️⃣ Handling Class Imbalance
-
 ✅ Used SMOTE (Synthetic Minority Over-sampling Technique) to balance the dataset
 
 
