@@ -6,7 +6,6 @@ Wine quality prediction is an essential task in the wine industry, influencing p
 
 We employed multiple ML models, conducted statistical analyses, and applied feature engineering techniques to build an accurate and robust classification model.
 
----
 
 ## 📊 Dataset Information
 
@@ -31,7 +30,6 @@ Features Used:
   🔹 Predict wine quality (Low, Medium, High) based on chemical properties.
   🔹 Determine which features impact wine quality the most.
 
-  ---
 
 ## 🔬 Data Preprocessing & Exploration
 
@@ -58,7 +56,6 @@ Features Used:
 4️⃣ Handling Class Imbalance
 ✅ Used SMOTE (Synthetic Minority Over-sampling Technique) to balance the dataset
 
----
 
 ## 🤖 Model Training & Evaluation
 We implemented multiple machine learning models, fine-tuned hyperparameters, and compared their performance.
@@ -71,7 +68,6 @@ Model Performance Summary:
   Naive Bayes	                         74.5%
   Random Forest	                      🔥 80.6% ✅
 
----
 
 ## 🏆 Best Performing Model: Random Forest
 
@@ -86,8 +82,6 @@ Why Random Forest?
         - Higher Total Sulfur Dioxide reduces wine quality
         - Residual Sugar & Density are highly correlated in white wines
 
---- 
-
 
 ## 📈 Key Insights & Findings
    🔹 Alcohol has a strong positive correlation with wine quality
@@ -95,16 +89,12 @@ Why Random Forest?
    🔹 Decision Trees & Random Forest models effectively identify feature importance
    🔹 Feature engineering & data cleaning significantly improved model accuracy
 
---- 
-
 
 ## 🚀 Future Work
    🔹 Explore Deep Learning Models (Neural Networks) for better classification
    🔹 Use additional datasets for better generalization
    🔹 Optimize hyperparameters using Bayesian Optimization
    🔹 Deploy the best model as a Web API for real-world testing
-
----
 
 
 ## 👨‍💻 Contributors
@@ -116,14 +106,11 @@ David "The Juggernaut" Clark
 Laurie "The Reaper" Webb
 Michael "Just Mike" Garner
 
----
-
 
 ## 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
----
 
 ## 📢 Final Thoughts
 
@@ -134,7 +121,6 @@ With further optimizations and deployment, this model could be used in the wine 
 
 ## 🍷 Cheers to Data Science! 🎉
 
----
 
 ## 🔗 References
    🔹 UCI Wine Quality Dataset - (https://archive.ics.uci.edu/dataset/186/wine%2Bquality)
