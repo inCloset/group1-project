@@ -29,9 +29,9 @@ Features Used:
    - Quality (Target Variable: 0-10 scale)
 
 ## Objective:
-🔹 Predict wine quality (Low, Medium, High) based on chemical properties.
+      🔹 Predict wine quality (Low, Medium, High) based on chemical properties.
 
-🔹 Determine which features impact wine quality the most.
+      🔹 Determine which features impact wine quality the most.
 
 
 
@@ -48,9 +48,12 @@ Features Used:
       ✅ Handled missing values
 
 2️⃣ Exploratory Data Analysis (EDA)
-🔹 Visualized correlations between chemical properties & wine quality
-🔹 Performed ANOVA testing on Total Sulfur Dioxide to assess its impact
-🔹 Calculated Pearson Correlation between Density & Residual Sugar
+
+      🔹 Visualized correlations between chemical properties & wine quality
+
+      🔹 Performed ANOVA testing on Total Sulfur Dioxide to assess its impact
+
+      🔹 Calculated Pearson Correlation between Density & Residual Sugar
 
 3️⃣ Feature Engineering
 
@@ -60,9 +63,11 @@ Features Used:
    - High Quality (8-9)
 
      ✅ Created a custom function to process Red & White wines separately
+
      ✅ Applied One-Hot Encoding for categorical variables
 
 4️⃣ Handling Class Imbalance
+
 ✅ Used SMOTE (Synthetic Minority Over-sampling Technique) to balance the dataset
 
 
@@ -71,12 +76,12 @@ Features Used:
 We implemented multiple machine learning models, fine-tuned hyperparameters, and compared their performance.
 
 Model Performance Summary:
-  Model	                                 Accuracy
-  Logistic Regression	                 69.6%
-  Decision Tree	                         66.0%
-  K-Nearest Neighbors	                 66.7%
-  Naive Bayes	                         74.5%
-  Random Forest	                      🔥 80.6% ✅
+  Model	                                                       Accuracy
+  Logistic Regression	                                        69.6%
+  Decision Tree	                                              66.0%
+  K-Nearest Neighbors	                                        66.7%
+  Naive Bayes	                                                 74.5%
+  Random Forest	                                           🔥 80.6% ✅
 
 
 
