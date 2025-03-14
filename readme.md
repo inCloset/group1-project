@@ -29,9 +29,9 @@ Features Used:
    - Quality (Target Variable: 0-10 scale)
 
 ## Objective:
-> 🔹 Predict wine quality (Low, Medium, High) based on chemical properties.
+   - Predict wine quality (Low, Medium, High) based on chemical properties.
 
-> 🔹 Determine which features impact wine quality the most.
+   - Determine which features impact wine quality the most.
 
 
 
@@ -41,19 +41,19 @@ Features Used:
 
 1️⃣ Data Cleaning
 
->  ✅ Removed unnecessary columns
+✅ Removed unnecessary columns
 
->  ✅ Standardized column names for consistency
+✅ Standardized column names for consistency
 
->  ✅ Handled missing values
+✅ Handled missing values
 
 2️⃣ Exploratory Data Analysis (EDA)
 
->🔹 Visualized correlations between chemical properties & wine quality
+   - Visualized correlations between chemical properties & wine quality
 
->🔹 Performed ANOVA testing on Total Sulfur Dioxide to assess its impact
+   - Performed ANOVA testing on Total Sulfur Dioxide to assess its impact
 
->🔹 Calculated Pearson Correlation between Density & Residual Sugar
+   - Calculated Pearson Correlation between Density & Residual Sugar
 
 3️⃣ Feature Engineering
 
@@ -95,23 +95,23 @@ Model Performance Summary:
 
 Why Random Forest?
 
->  ✔️ Handles Noisy & Complex Data Better
+✔️ Handles Noisy & Complex Data Better
 
->  ✔️ Reduces Overfitting by Combining Multiple Decision Trees
+✔️ Reduces Overfitting by Combining Multiple Decision Trees
 
->  ✔️ Automatically Ranks Feature Importance
+✔️ Automatically Ranks Feature Importance
 
->  ✔️ Performs Well on Small & Large Datasets
+✔️ Performs Well on Small & Large Datasets
 
->  ✔️ Maintains High Accuracy Without Scaling
+✔️ Maintains High Accuracy Without Scaling
 
->     🔹 Key Feature Importances Identified by Random Forest:
+🔹 Key Feature Importances Identified by Random Forest:
 
->        - Alcohol content is the strongest predictor of wine quality 🍷
+   - Alcohol content is the strongest predictor of wine quality 🍷
 
->        - Higher Total Sulfur Dioxide reduces wine quality
+   - Higher Total Sulfur Dioxide reduces wine quality
 
->        - Residual Sugar & Density are highly correlated in white wines
+   - Residual Sugar & Density are highly correlated in white wines
 
 
 
@@ -166,7 +166,7 @@ By leveraging Random Forest, feature engineering, and statistical analysis, we a
 
 With further optimizations and deployment, this model could be used in the wine industry to assess quality efficiently and accurately.
 
->                                         🍷 **Cheers to Data Science!** 🎉
+🍷 Cheers to Data Science! 🎉
 
 
 
