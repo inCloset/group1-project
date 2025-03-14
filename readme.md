@@ -86,7 +86,7 @@ Model Performance Summary:
   K-Nearest Neighbors	                                        66.7%
 
   Naive Bayes	                                                 74.5%
-  
+
   Random Forest	                                           🔥 80.6% ✅
 
 
@@ -94,15 +94,24 @@ Model Performance Summary:
 ## 🏆 Best Performing Model: Random Forest
 
 Why Random Forest?
-   ✔️ Handles Noisy & Complex Data Better
-   ✔️ Reduces Overfitting by Combining Multiple Decision Trees
-   ✔️ Automatically Ranks Feature Importance
-   ✔️ Performs Well on Small & Large Datasets
-   ✔️ Maintains High Accuracy Without Scaling
-   🔹 Key Feature Importances Identified by Random Forest:
-        - Alcohol content is the strongest predictor of wine quality 🍷
-        - Higher Total Sulfur Dioxide reduces wine quality
-        - Residual Sugar & Density are highly correlated in white wines
+
+      ✔️ Handles Noisy & Complex Data Better
+
+      ✔️ Reduces Overfitting by Combining Multiple Decision Trees
+
+      ✔️ Automatically Ranks Feature Importance
+
+      ✔️ Performs Well on Small & Large Datasets
+
+      ✔️ Maintains High Accuracy Without Scaling
+
+        🔹 Key Feature Importances Identified by Random Forest:
+
+            - Alcohol content is the strongest predictor of wine quality 🍷
+
+            - Higher Total Sulfur Dioxide reduces wine quality
+            
+            - Residual Sugar & Density are highly correlated in white wines
 
 
 
