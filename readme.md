@@ -40,15 +40,14 @@ Features Used:
 📌 Steps Taken:
 
 1️⃣ Data Cleaning
-   ✅ Removed unnecessary columns
-   ✅ Standardized column names for consistency
-   ✅ Handled missing values
+✅ Removed unnecessary columns
+✅ Standardized column names for consistency
+✅ Handled missing values
 
 2️⃣ Exploratory Data Analysis (EDA)
-
-   🔹 Visualized correlations between chemical properties & wine quality
-   🔹 Performed ANOVA testing on Total Sulfur Dioxide to assess its impact
-   🔹 Calculated Pearson Correlation between Density & Residual Sugar
+🔹 Visualized correlations between chemical properties & wine quality
+🔹 Performed ANOVA testing on Total Sulfur Dioxide to assess its impact
+🔹 Calculated Pearson Correlation between Density & Residual Sugar
 
 3️⃣ Feature Engineering
 
