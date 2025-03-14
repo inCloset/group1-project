@@ -29,9 +29,9 @@ Features Used:
    - Quality (Target Variable: 0-10 scale)
 
 ## Objective:
-  🔹 Predict wine quality (Low, Medium, High) based on chemical properties.
+🔹 Predict wine quality (Low, Medium, High) based on chemical properties.
 
-  🔹 Determine which features impact wine quality the most.
+🔹 Determine which features impact wine quality the most.
 
 
 
@@ -56,7 +56,7 @@ Features Used:
    - Low Quality (3-5)
    - Medium Quality (6-7)
    - High Quality (8-9)
-   
+
      ✅ Created a custom function to process Red & White wines separately
      ✅ Applied One-Hot Encoding for categorical variables
 
