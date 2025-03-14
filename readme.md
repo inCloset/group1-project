@@ -40,8 +40,11 @@ Features Used:
 📌 Steps Taken:
 
 1️⃣ Data Cleaning
+
 ✅ Removed unnecessary columns
+
 ✅ Standardized column names for consistency
+
 ✅ Handled missing values
 
 2️⃣ Exploratory Data Analysis (EDA)
