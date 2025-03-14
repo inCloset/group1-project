@@ -110,23 +110,31 @@ Why Random Forest?
             - Alcohol content is the strongest predictor of wine quality 🍷
 
             - Higher Total Sulfur Dioxide reduces wine quality
-            
+
             - Residual Sugar & Density are highly correlated in white wines
 
 
 
 ## 📈 Key Insights & Findings
+
    🔹 Alcohol has a strong positive correlation with wine quality
+
    🔹 Sulfur dioxide levels impact taste & preservation, affecting overall quality
+
    🔹 Decision Trees & Random Forest models effectively identify feature importance
+
    🔹 Feature engineering & data cleaning significantly improved model accuracy
 
 
 
 ## 🚀 Future Work
+
    🔹 Explore Deep Learning Models (Neural Networks) for better classification
+
    🔹 Use additional datasets for better generalization
+
    🔹 Optimize hyperparameters using Bayesian Optimization
+
    🔹 Deploy the best model as a Web API for real-world testing
 
 
@@ -136,8 +144,11 @@ Why Random Forest?
 This project was developed by Group 1:
 
 Frank "Iron Fist" Tsibu
+
 David "The Juggernaut" Clark
+
 Laurie "The Reaper" Webb
+
 Michael "Just Mike" Garner
 
 
@@ -155,12 +166,16 @@ By leveraging Random Forest, feature engineering, and statistical analysis, we a
 
 With further optimizations and deployment, this model could be used in the wine industry to assess quality efficiently and accurately.
 
-🍷 Cheers to Data Science! 🎉
+                                          🍷 Cheers to Data Science! 🎉
 
 
 
 ## 🔗 References
+
    🔹 UCI Wine Quality Dataset - (https://archive.ics.uci.edu/dataset/186/wine%2Bquality)
+
    🔹 Machine Learning Algorithms - Scikit-learn
+
    🔹 Statistical Tests (ANOVA, Pearson Correlation) - Statsmodels
+   
    🔹 Shrikant Temburwar - Wine Quality Dataset
