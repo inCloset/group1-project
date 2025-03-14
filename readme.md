@@ -139,20 +139,17 @@ Why Random Forest?
 
 
 
-
-
-
 ## 👨‍💻 Contributors
 
 This project was developed by Group 1:
 
-Frank "Iron Fist" Tsibu
+   - Frank "Iron Fist" Tsibu
 
-David "The Juggernaut" Clark
+   - David "The Juggernaut" Clark
 
-Laurie "The Reaper" Webb
+   - Laurie "The Reaper" Webb
 
-Michael "Just Mike" Garner
+   - Michael "Just Mike" Garner
 
 
 
