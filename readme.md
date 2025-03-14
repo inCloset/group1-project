@@ -76,11 +76,17 @@ Features Used:
 We implemented multiple machine learning models, fine-tuned hyperparameters, and compared their performance.
 
 Model Performance Summary:
+
   Model	                                                       Accuracy
+
   Logistic Regression	                                        69.6%
+
   Decision Tree	                                              66.0%
+
   K-Nearest Neighbors	                                        66.7%
+
   Naive Bayes	                                                 74.5%
+  
   Random Forest	                                           🔥 80.6% ✅
 
 
