@@ -56,6 +56,7 @@ Features Used:
    - Low Quality (3-5)
    - Medium Quality (6-7)
    - High Quality (8-9)
+   
      ✅ Created a custom function to process Red & White wines separately
      ✅ Applied One-Hot Encoding for categorical variables
 
