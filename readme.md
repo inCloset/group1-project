@@ -7,6 +7,7 @@ Wine quality prediction is an essential task in the wine industry, influencing p
 We employed multiple ML models, conducted statistical analyses, and applied feature engineering techniques to build an accurate and robust classification model.
 
 
+
 ## 📊 Dataset Information
 
 Source: UCI Machine Learning Repository
@@ -29,8 +30,9 @@ Features Used:
 
 ## Objective:
   🔹 Predict wine quality (Low, Medium, High) based on chemical properties.
-  
+
   🔹 Determine which features impact wine quality the most.
+
 
 
 ## 🔬 Data Preprocessing & Exploration
@@ -59,6 +61,7 @@ Features Used:
 ✅ Used SMOTE (Synthetic Minority Over-sampling Technique) to balance the dataset
 
 
+
 ## 🤖 Model Training & Evaluation
 We implemented multiple machine learning models, fine-tuned hyperparameters, and compared their performance.
 
@@ -69,6 +72,7 @@ Model Performance Summary:
   K-Nearest Neighbors	                 66.7%
   Naive Bayes	                         74.5%
   Random Forest	                      🔥 80.6% ✅
+
 
 
 ## 🏆 Best Performing Model: Random Forest
@@ -85,6 +89,7 @@ Why Random Forest?
         - Residual Sugar & Density are highly correlated in white wines
 
 
+
 ## 📈 Key Insights & Findings
    🔹 Alcohol has a strong positive correlation with wine quality
    🔹 Sulfur dioxide levels impact taste & preservation, affecting overall quality
@@ -92,11 +97,13 @@ Why Random Forest?
    🔹 Feature engineering & data cleaning significantly improved model accuracy
 
 
+
 ## 🚀 Future Work
    🔹 Explore Deep Learning Models (Neural Networks) for better classification
    🔹 Use additional datasets for better generalization
    🔹 Optimize hyperparameters using Bayesian Optimization
    🔹 Deploy the best model as a Web API for real-world testing
+
 
 
 ## 👨‍💻 Contributors
@@ -109,9 +116,11 @@ Laurie "The Reaper" Webb
 Michael "Just Mike" Garner
 
 
+
 ## 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 
 ## 📢 Final Thoughts
@@ -121,7 +130,8 @@ By leveraging Random Forest, feature engineering, and statistical analysis, we a
 
 With further optimizations and deployment, this model could be used in the wine industry to assess quality efficiently and accurately.
 
-## 🍷 Cheers to Data Science! 🎉
+🍷 Cheers to Data Science! 🎉
+
 
 
 ## 🔗 References
