@@ -49,7 +49,7 @@ Features Used:
 
 2️⃣ Exploratory Data Analysis (EDA)
 
->>🔹 Visualized correlations between chemical properties & wine quality
+>🔹 Visualized correlations between chemical properties & wine quality
 
 >     🔹 Performed ANOVA testing on Total Sulfur Dioxide to assess its impact
 
