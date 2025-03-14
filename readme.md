@@ -41,11 +41,11 @@ Features Used:
 
 1️⃣ Data Cleaning
 
-✅ Removed unnecessary columns
+   ✅ Removed unnecessary columns
 
-✅ Standardized column names for consistency
+   ✅ Standardized column names for consistency
 
-✅ Handled missing values
+   ✅ Handled missing values
 
 2️⃣ Exploratory Data Analysis (EDA)
 🔹 Visualized correlations between chemical properties & wine quality
