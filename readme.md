@@ -35,7 +35,17 @@ This dataset contains chemical properties of **red and white wine** samples, wit
 ✅ Determine which features impact wine quality the most.  
 
 ---
-
+### External Libraries and thier Purpose:
+- pandas → Handles data (loading, processing, and analyzing).
+- matplotlib.pyplot → Used for data visualization.
+- numpy → Handles numerical operations.
+- train_test_split → Splits dataset into training and testing sets.
+- StandardScaler → Standardizes numerical data for better model performance.
+- balanced_accuracy_score, accuracy_score → Used to evaluate model performance.
+- SVC (Support Vector Classifier) → Implements the SVM model.
+- statsmodels, scipy.stats → Used for statistical analysis and hypothesis testing.
+- seaborn → Enhances visualization.
+---
 ## 🔬 Data Preprocessing & Exploration  
 
 ### **📌 Steps Taken:**  
