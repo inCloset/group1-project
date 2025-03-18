@@ -45,6 +45,14 @@ This dataset contains chemical properties of **red and white wine** samples, wit
 - SVC (Support Vector Classifier) → Implements the SVM model.
 - statsmodels, scipy.stats → Used for statistical analysis and hypothesis testing.
 - seaborn → Enhances visualization.
+
+---
+Tools and Technologies Employed 
+- git 
+- github
+- Powerpoint
+- Jupytor Notebook
+- Slack
 ---
 ## 🔬 Data Preprocessing & Exploration  
 
