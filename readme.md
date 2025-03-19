@@ -64,8 +64,7 @@ Tools and Technologies Employed
 ✅ Handled missing values  
 
 #### **2️⃣ Exploratory Data Analysis (EDA)**  
-📊 Visualized correlations between chemical properties & wine quality  
-📊 Performed **ANOVA testing** on **Total Sulfur Dioxide** to assess its impact  
+📊 Visualized correlations between chemical properties & wine quality   
 📊 Calculated **Pearson Correlation** between **Density & Residual Sugar**  
 
 #### **3️⃣ Feature Engineering**  
@@ -164,5 +163,4 @@ With further optimizations and deployment, this model could be used in the **win
 
 🔹 [UCI Wine Quality Dataset](https://archive.ics.uci.edu/dataset/186/wine%2Bquality)  
 🔹 Machine Learning Algorithms - **Scikit-learn**  
-🔹 Statistical Tests (ANOVA, Pearson Correlation) - **Statsmodels**  
 🔹 Shrikant Temburwar - **Wine Quality Dataset**  
